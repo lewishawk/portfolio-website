@@ -1,2 +1,9 @@
 # Cache
-/backend/__pycache__
+/backend/__pycache__/
+/main/__pycache__/
+/main/migrations/__pycache__/
+
+# Database and related items
+db.sqlite3
+/media/
+/main/migrations/*_initial.py
